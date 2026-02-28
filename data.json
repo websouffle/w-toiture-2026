@@ -42,5 +42,39 @@
   "seed": 2489243809,
   "generatedAt": "2026-01-24T21:50:15.877Z",
   "demoUrl": "https://websouffle.github.io/w-toiture-2026/",
-  "prospectId": "1f11447e-5fb8-6b44-9848-cfbc7c77af86"
+  "prospectId": "1f11447e-5fb8-6b44-9848-cfbc7c77af86",
+  "lastMailTemplate": "demo_website",
+  "lastMailStatus": "sent",
+  "lastMailSentAt": "2026-02-28T01:50:48+00:00",
+  "mailHistory": [
+    {
+      "template": "demo_website",
+      "status": "sent",
+      "sentAt": "2026-02-28T01:50:48+00:00",
+      "toEmail": "bmrweiss@gmail.com",
+      "providerMessageId": "<202602280150.15237722384@smtp-relay.mailin.fr>",
+      "error": null,
+      "payloadHash": "a390f9159028ea78c7b3571fad672aa630b967236304d36bd83868be8a9677af",
+      "payload": {
+        "sender": {
+          "name": "Websoufflé",
+          "email": "hello@websouffle.com"
+        },
+        "to": [
+          {
+            "email": "bmrweiss@gmail.com",
+            "name": "W TOITURE"
+          }
+        ],
+        "bcc": [
+          {
+            "email": "hello@websouffle.com"
+          }
+        ],
+        "subject": "Website concept for W TOITURE",
+        "textContent": "Subject: Website concept for W TOITURE\n\nHi there,\n\nI’m reaching out proactively because I found your details via Gouden Gids (goudengids.be). I also noticed that W TOITURE doesn’t currently have a website. That’s why I already created a first website concept, so you can immediately see how your online presence could look — professional and convincing.\n\nView the demo: https://websouffle.github.io/w-toiture-2026/\n\nMy goal is simple: help you gain more visibility and inquiries with a strong, clear website at a market‑conform price with transparent costs.\n\nWhat you get\n\nFree website design (look & feel): you receive the full design for free so you can judge without risk whether it matches your expectations.\n\nProfessional delivery by Websoufflé: after approval, I turn the design into a fast, user‑friendly website that can grow with your needs.\n\nTransparent monthly costs\n\nDomain (.be): € 6.99 / month\nHosting / server: € 22.00 / month\nTotal: € 28.99 / month\n(Prices excl. VAT where applicable.)\n\nI do this through Websoufflé as a side business, using my technical experience from my day job at Cegeka and Napoleon Games to help entrepreneurs build a professional online presence — practical, fast, and correctly delivered.\n\nIf you’re interested, we can keep it simple:\nFeel free to share your first feedback on the demo (what you like and what you’d change) and I’ll prepare a tailored proposal for W TOITURE.\nYou can also reply with 2–3 time slots that work for you, and I’ll schedule something.\n\nBest regards,\nKengy Van Hijfte\nWebsoufflé – custom web development\nE: hello@websouffle.com\nT: +32476607441\nW: https://www.websouffle.com/en/page/home\nPersonal site: https://kengy.be\nVAT: BE0789542089\n",
+        "htmlContent": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title>Website concept for W TOITURE</title>\n    <style>\n      body { margin: 0; background: #f1f5f9; font-family: Arial, sans-serif; color: #0f172a; }\n      .wrapper { width: 100%; padding: 24px 16px; }\n      .card { max-width: 640px; margin: 0 auto; background: #ffffff; border-radius: 16px; padding: 28px; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08); }\n      .eyebrow { text-transform: uppercase; letter-spacing: 0.16em; font-size: 12px; color: #2563eb; font-weight: 700; }\n      h1 { font-size: 22px; margin: 12px 0 16px; }\n      p { line-height: 1.6; margin: 0 0 16px; }\n      .button { display: inline-block; background: #0f172a; color: #ffffff; text-decoration: none; padding: 12px 18px; border-radius: 999px; font-weight: 600; }\n      .list { margin: 0 0 16px 18px; padding: 0; }\n      .list li { margin-bottom: 8px; }\n      .note { background: linear-gradient(135deg, #f8fafc, #eef2ff); border-radius: 14px; padding: 20px 22px; margin: 26px 0; border: 1px solid #e2e8f0; }\n      .note p { margin-bottom: 12px; }\n      .note-body { margin-top: 14px; }\n      .note-list { margin: 12px 0 0 18px; padding: 0; }\n      .note-list li { margin-bottom: 10px; }\n      .note-list li::marker { color: #1d4ed8; }\n      .table { width: 100%; border-collapse: collapse; margin: 12px 0 16px; font-size: 14px; }\n      .table th, .table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #e2e8f0; }\n      .table th { color: #475569; font-weight: 600; }\n      .table tfoot td { font-weight: 700; color: #0f172a; }\n      .footer { font-size: 12px; color: #64748b; margin-top: 24px; }\n      @media (max-width: 600px) {\n        .card { padding: 22px; }\n        h1 { font-size: 20px; }\n      }\n    </style>\n  </head>\n  <body>\n    <div class=\"wrapper\">\n      <div class=\"card\">\n        <div class=\"eyebrow\">More inquiries, more growth</div>\n        <h1>Hi there,</h1>\n        <p>I’m reaching out proactively because I found your details via Gouden Gids (goudengids.be). I also noticed that <strong>W TOITURE</strong> doesn’t currently have a website. That’s why I already created a first website concept, so you can immediately see how your online presence could look — professional and convincing.</p>\n        <p><a class=\"button\" href=\"https://websouffle.github.io/w-toiture-2026/\">View the demo</a></p>\n        <p>My goal is simple: help you gain more visibility and inquiries with a strong, clear website at a market‑conform price with transparent costs.</p>\n\n        <div class=\"note\">\n          <div style=\"font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; font-size: 12px; color: #1d4ed8;\">What you get</div>\n          <div class=\"note-body\">\n            <ul class=\"note-list\">\n              <li>You receive the full design for free so you can judge without risk whether it matches your expectations.</li>\n              <li>After approval, I turn the design into a fast, user‑friendly website that can grow with your needs.</li>\n            </ul>\n          </div>\n        </div>\n\n        <strong>Transparent monthly costs</strong>\n        <table class=\"table\" role=\"presentation\">\n          <thead>\n            <tr>\n              <th>Item</th>\n              <th>Price</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td>Domain (.be)</td>\n              <td>€ 6.99 / month</td>\n            </tr>\n            <tr>\n              <td>Hosting / server</td>\n              <td>€ 22.00 / month</td>\n            </tr>\n          </tbody>\n          <tfoot>\n            <tr>\n              <td>Total</td>\n              <td>€ 28.99 / month</td>\n            </tr>\n          </tfoot>\n        </table>\n        <p>(Prices excl. VAT where applicable.)</p>\n\n        <p>I do this through Websoufflé as a side business, using my technical experience from my day job at Cegeka and Napoleon Games to help entrepreneurs build a professional online presence — practical, fast, and correctly delivered.</p>\n\n        <p>If you’re interested, we can keep it simple:<br>\n        Feel free to share your first feedback on the demo (what you like and what you’d change) and I’ll prepare a tailored proposal for W TOITURE.<br>\n        You can also reply with 2–3 time slots that work for you, and I’ll schedule something.</p>\n\n        <p>Best regards,<br>\n        <strong>Kengy Van Hijfte</strong><br>\n        Websoufflé – custom web development<br>\n        E: <a href=\"mailto:hello@websouffle.com\">hello@websouffle.com</a><br>\n        T: <a href=\"tel:+32476607441\">+32476607441</a><br>\n        W: <a href=\"https://www.websouffle.com/en/page/home\">https://www.websouffle.com/en/page/home</a><br>\n        Personal site: <a href=\"https://kengy.be\">https://kengy.be</a><br>\n        VAT: BE0789542089</p>\n\n        <div class=\"footer\"></div>\n      </div>\n    </div>\n  </body>\n</html>"
+      }
+    }
+  ]
 }
